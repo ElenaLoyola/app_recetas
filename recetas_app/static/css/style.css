@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+}
+.registro,
+.ingreso {
+    width: 350px;
+    margin-top: 20px;
+}
+.registro li,
+.ingreso li,
+.crear li {
+    color: red;
+}
+.container1 header {
+    margin: 15px;
+    height: 50px;
+}
+.header h1 {
+    color: rebeccapurple;
+    font-family: 'Lucida Sans';
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.header {
+    width: 1000px;
+    margin: 0 auto;
+}
+.barra {
+    background-color: rebeccapurple;
+}
+.titulo {
+    margin-left: 20px;
+    margin-right: 50px;
+    color: white;
+}
+.boton {
+    margin-bottom: 30px;
+}
+.flashes li {
+    color: red;
+}
